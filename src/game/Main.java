@@ -5,7 +5,7 @@ import gameoflife.Simulator;
 public class Main {
 
     public static void main(String[] args) {
-        // test your program here
+        // testing
 	PersonalBoard board = new PersonalBoard(7, 5);
 	board.initiateRandomCells(0.7);
 
